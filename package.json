@@ -1,0 +1,20 @@
+{
+  "name": "async-bucket",
+  "version": "1.0.0",
+  "description": "A minimal library for throttling async concurrency. Rewrited version of [async-limiter](https://github.com/STRML/async-limiter).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "MoordMachineYT#1910",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoordMachineYT/async-bucket.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MoordMachineYT/async-bucket/issues"
+  },
+  "homepage": "https://github.com/MoordMachineYT/async-bucket#readme"
+}
