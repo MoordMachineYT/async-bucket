@@ -6,6 +6,7 @@ class Bucket {
     this.jobs = [];
     this.pending = 0;
     this.cbs = [];
+    this._done = this._done.bind(this);
   }
   get length() {
     return this.jobs.length + this.pending;

@@ -1,6 +1,6 @@
 {
   "name": "async-bucket",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A minimal library for throttling async concurrency. Rewrited version of [async-limiter](https://github.com/STRML/async-limiter).",
   "main": "index.js",
   "scripts": {
